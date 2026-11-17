@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "13.1"
+DATE = "13:00:00  November 06, 2026"
+
+# Revisions
+
+PROJECT_REVISION = "Atari800_SiDi128"
